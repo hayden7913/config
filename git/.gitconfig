@@ -1,0 +1,53 @@
+[user]
+ name = hayden7913
+ email = hayden321@gmail.com
+
+[color]
+  ui = auto
+[color "branch"]
+  current = yellow reverse
+  local = yellow
+  remote = green
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old = cyan bold
+  new = green bold
+[color "status"]
+  added = yellow
+  changed = green
+  untracked = cyan
+[push]
+	default = simple
+[alias]
+
+  ##
+  # One letter alias for our most frequent commands.
+  #
+  # Guidelines: these aliases do not use options, because we want
+  # these aliases to be easy to compose and use in many ways.
+  ##
+
+  a = add
+  b = branch
+  c = commit
+	cm = commit --message
+  d = diff
+  f = fetch
+  g = grep
+  l = log
+	lo = log --oneline
+  m = merge
+  o = checkout
+	nb= checkout -b
+  p = push
+	pu = push -u origin
+  r = remote
+  s = status
+  w = whatchanged
+
+  po = "!git push --set-upstream origin \"$(git rev-parse --abbrev-ref HEAD)\""
+	ac = "!f() { git add . && git cm \"$1\"; }; f"
+	cp = "!f() { git add . && git cm \"$1\" && git po; }; f"
+	mp = "!f() { branch=$(git rev-parse --abbrev-ref HEAD) && git checkout master && git merge $branch && git push origin master; }; f"
+	db = "!f() { git branch --merged | egrep -v \"master\" | xargs git branch -d; }; f"
