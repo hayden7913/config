@@ -1,5 +1,5 @@
 #!/bin/bash
-dropbox start
+gnome-terminal -- megasync
 
 # start vpn
 ~/pia.sh
