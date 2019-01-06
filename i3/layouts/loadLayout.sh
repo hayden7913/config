@@ -6,5 +6,6 @@ if [ $(whoami) != 'lula' ]; then
   exec google-chrome &
   i3-msg 'workspace 2; append_layout ~/Dropbox/config/i3/layouts/workspace-2.json' &
   exec google-chrome &
+  exec gnome-terminal &
   exit 0
 fi

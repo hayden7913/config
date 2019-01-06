@@ -1,5 +1,4 @@
 #!/bin/bash
-gnome-terminal -- megasync
 
 # start vpn
 ~/pia.sh
@@ -11,4 +10,4 @@ s2cctl start
 xcape -e 'Shift_L=Escape'
 
 # get vim-like movement using caps lock
-xmodmap ~/Dropbox/config/xmodmap/.xmod
+xmodmap ~/MEGAsync/config/xmodmap/.xmod
