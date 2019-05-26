@@ -30,8 +30,7 @@
 
   a = add
   b = branch
-  c = commit
-	cm = commit --message
+  c = commit --message
   d = diff
   f = fetch
   g = grep
@@ -46,8 +45,16 @@
   s = status
   w = whatchanged
 
-  po = "!git push --set-upstream origin \"$(git rev-parse --abbrev-ref HEAD)\""
-	ac = "!f() { git add . && git cm \"$1\"; }; f"
-	cp = "!f() { git add . && git cm \"$1\" && git po; }; f"
-	mp = "!f() { branch=$(git rev-parse --abbrev-ref HEAD) && git checkout master && git merge $branch && git push origin master; }; f"
-	db = "!f() { git branch --merged | egrep -v \"master\" | xargs git branch -d; }; f"
+po = "!git push --set-upstream origin \"$(git rev-parse --abbrev-ref HEAD)\""
+ac = "!f() { git add . && git commit -m \"$1\"; }; f"
+cp = "!f() { git add . && git c \"$1\" && git po; }; f"
+mp = "!f() { branch=$(git rev-parse --abbrev-ref HEAD) && git checkout development && git merge $branch && git push origin development; }; f"
+db = "!f() { git branch --merged | egrep -v \"master\" | xargs git branch -d; }; f"
+[core]
+	excludesfile = /Users/hayden/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Users/hayden/Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

@@ -4,12 +4,13 @@
 exec ~/MEGAsync/config/i3/layouts/loadLayout.sh
 exec ~/MEGAsync/config/i3/i3Startup.sh
 exec xrandr --output DVI-1 --brightness 0.8 --gamma 0.7:0.7:0.7
-exec imwheel
+exec imwheel --kill --buttons "4 5"
 exec feh --bg-scale /usr/share/backgrounds/linuxmint/linuxmint.jpg
 exec megasync
 
 #My Key Bindings
-bindsym Mod4+n exec sudo pm-suspend
+bindsym Mod4+n exec systemctl suspend
+bindsym Mod4+i exec systemctl hibernate
 bindsym Mod4+b exec ~/MEGAsync/config/i3/layouts/loadLayout.sh
 bindsym Mod4+c exec google-chrome
 bindsym Mod4+t exec atom

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#
+# installs onedark color theme for terminal
+# bash -c "$(curl -fsSL https://raw.githubusercontent.com/denysdovhan/gnome-terminal-one/master/one-dark.sh)"
+
+## configure i3
+#rm -rf ~/.config/i3/config
+#ln -s ~/MEGAsync/config/i3/config ~/.config/i3/
+
+## configure atom
+ln -s ~/MEGAsync/config/Atom ~/.atom

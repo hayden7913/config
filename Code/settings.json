@@ -1,0 +1,69 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.editor.enablePreview": false,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Hack Nerd Font",
+  "files.autoSave": "onFocusChange",
+  "window.zoomLevel": 2,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "terminal.integrated.rendererType": "dom",
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    }
+  ],
+  "workbench.editor.showTabs": true,
+  "git.autofetch": true,
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "go",
+    "handlebars",
+    "html",
+    "jade",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "pub",
+    "python",
+    "restructuredtext",
+    "rust",
+    "scss",
+    "text",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "yml"
+  ],
+  "vim.debug.loggingLevelForAlert": "false",
+  "vim.sneak": true,
+  "python.pythonPath": "/usr/local/bin/python3",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}

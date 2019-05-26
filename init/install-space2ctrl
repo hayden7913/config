@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+sudo apt-get install libx11-dev libxtst-dev
+rm -rf /etc/X11/xorg.conf
+cp ~/MEGAsync/config/init/xorg.conf /etc/X11/
+git clone https://github.com/r0adrunner/Space2Ctrl ~/Software/Space2Ctrl
+cd ~/Software/Space2Ctrl
+make
+sudo make install

@@ -1,0 +1,55 @@
+{
+  // Imports
+  "import": {
+    "prefix": "im",
+    "body": "import $1 from '$2';",
+    "description": "import"
+  },
+  "import_util": {
+    "prefix": "imu",
+    "body": "import $1 from '@/utils/$2.utils';",
+    "description": "import_util"
+  },
+  "import_const": {
+    "prefix": "imcn",
+    "body": "import $1 from '@/constants/$2.constants';",
+    "description": "import_const"
+  },
+  "import_component": {
+    "prefix": "imc",
+    "body": "import $1 from '@/components/$1';",
+    "description": "import_component"
+  },
+  "import_actionType": {
+    "prefix": "ima",
+    "body": "import { $1 } from '@/store/actions.types';",
+    "description": "import_actionType"
+  },
+  "import_mutationType": {
+    "prefix": "imm",
+    "body": "import { $1 } from '@/store/mutations.types';",
+    "description": "import_mutationType"
+  },
+  "import_vuex": {
+    "prefix": "imv",
+    "body": "import { $1 } from 'vuex';",
+    "description": "import_vuex"
+  },
+
+  // Misc
+  "console_log": {
+    "prefix": "cl",
+    "body": "console.log($1)",
+    "description": "console log"
+  },
+  "method": {
+    "prefix": "m",
+    "body": ["$1($2) {", "  $3", "},"],
+    "description": "method"
+  },
+  "sayHi": {
+    "prefix": "sh",
+    "body": ["sayHi($2) {", "  console.log('hello');", "},"],
+    "description": "sayHi"
+  }
+}

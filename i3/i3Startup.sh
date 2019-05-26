@@ -10,4 +10,4 @@ s2cctl start
 xcape -e 'Shift_L=Escape'
 
 # get vim-like movement using caps lock
-xmodmap ~/MEGAsync/config/xmodmap/.xmod
+xmodmap ~/MEGAsync/config/i3/xmodmap/.xmod

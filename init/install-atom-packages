@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+apm install advanced-open-file
+apm install busy-signal
+apm install clipboard-plus
+apm install emmet
+apm install intentions
+apm install language-babel
+apm install linter
+apm install linter-coffeelint
+apm install linter-eslint
+apm install linter-ui-default
+apm install markdown-preview-plus
+apm install platformio-ide-terminal
+apm install relative-numbers
+apm install vim-mode-plus
