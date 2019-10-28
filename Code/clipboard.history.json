@@ -2,10 +2,250 @@
   "version": 2,
   "clips": [
     {
+      "value": "l () {\n    printf \"\\n\"\n    if [ $# -eq 0 ] \n        then\n            clear\n            printf \"${MAGENTA}Current Directory:${NORMAL}\\n\\n\"\n            colorls\n            printf \"\\n\"\n        else\n            printf \"${MAGENTA}Showing $1:${NORMAL}\\n\\n\"\n            colorls $1\n            printf \"\\n\"\n    fi\n}\n",
+      "createdAt": 1572227101847,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 0
+          },
+          "end": {
+            "line": 3,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "c",
+      "createdAt": 1572227097830,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 0
+          },
+          "end": {
+            "line": 3,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "    p",
+      "createdAt": 1572226248819,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 12
+          },
+          "end": {
+            "line": 4,
+            "character": 12
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "            printf \"\\n\"",
+      "createdAt": 1572226031147,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 12,
+            "character": 12
+          },
+          "end": {
+            "line": 12,
+            "character": 12
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "Contents",
+      "createdAt": 1572226169359,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 30
+          },
+          "end": {
+            "line": 7,
+            "character": 30
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "Dir ",
+      "createdAt": 1572226152806,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 30
+          },
+          "end": {
+            "line": 7,
+            "character": 30
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "of ",
+      "createdAt": 1572226148280,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 30
+          },
+          "end": {
+            "line": 11,
+            "character": 30
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "Contents ",
+      "createdAt": 1572226147774,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 30
+          },
+          "end": {
+            "line": 11,
+            "character": 30
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "ectory  ",
+      "createdAt": 1572226096472,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 33
+          },
+          "end": {
+            "line": 11,
+            "character": 33
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "ectory ",
+      "createdAt": 1572226092446,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 33
+          },
+          "end": {
+            "line": 7,
+            "character": 33
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "n",
+      "createdAt": 1572226025622,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 67
+          },
+          "end": {
+            "line": 11,
+            "character": 67
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "\\",
+      "createdAt": 1572226025119,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 67
+          },
+          "end": {
+            "line": 11,
+            "character": 67
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
       "value": "",
       "createdAt": 1558079096283,
-      "copyCount": 59,
-      "useCount": 57,
+      "copyCount": 1174,
+      "useCount": 1165,
       "language": "html",
       "createdLocation": {
         "range": {
@@ -22,1871 +262,1231 @@
       }
     },
     {
-      "value": "  console.log(strippedModules);",
-      "createdAt": 1558777677795,
+      "value": "    printf \"\\n\"",
+      "createdAt": 1572225992965,
       "copyCount": 1,
       "useCount": 0,
-      "language": "javascript",
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 38,
+            "line": 11,
             "character": 0
           },
           "end": {
-            "line": 38,
+            "line": 11,
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/utility/restorePrevState.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "console.log('hi')",
-      "createdAt": 1558777614513,
+      "value": "Folder",
+      "createdAt": 1572225972846,
       "copyCount": 1,
       "useCount": 0,
-      "language": "javascript",
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 6,
-            "character": 0
+            "line": 10,
+            "character": 39
           },
           "end": {
-            "line": 6,
-            "character": 0
+            "line": 10,
+            "character": 39
           }
         },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/utility/restorePrevState.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "'hello'.log ",
-      "createdAt": 1558777597939,
+      "value": "Directory ",
+      "createdAt": 1572225971335,
       "copyCount": 1,
       "useCount": 0,
-      "language": "javascript",
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 6,
-            "character": 0
+            "line": 7,
+            "character": 30
           },
           "end": {
-            "line": 6,
-            "character": 0
+            "line": 7,
+            "character": 30
           }
         },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/utility/restorePrevState.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "console.log('hello my darling'); ",
-      "createdAt": 1558777558717,
+      "value": "Folder ",
+      "createdAt": 1572225958269,
       "copyCount": 1,
       "useCount": 0,
-      "language": "javascript",
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 187,
-            "character": 0
+            "line": 7,
+            "character": 30
           },
           "end": {
-            "line": 187,
-            "character": 0
+            "line": 7,
+            "character": 30
           }
         },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/server.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "'yolo'",
-      "createdAt": 1558777533093,
+      "value": "            printf \"${MAGENTA}Folder Contents:${NORMAL}\\n\\n\"",
+      "createdAt": 1572225924096,
       "copyCount": 1,
       "useCount": 0,
-      "language": "javascript",
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 186,
-            "character": 0
+            "line": 7,
+            "character": 40
           },
           "end": {
-            "line": 186,
-            "character": 0
+            "line": 7,
+            "character": 40
           }
         },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/server.js"
-      }
-    },
-    {
-      "value": "console.log('hola');",
-      "createdAt": 1558777526985,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 187,
-            "character": 0
-          },
-          "end": {
-            "line": 187,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/server.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
       "value": ";",
-      "createdAt": 1558213647903,
-      "copyCount": 5,
-      "useCount": 4,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 39,
-            "character": 14
-          },
-          "end": {
-            "line": 39,
-            "character": 14
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": "hola",
-      "createdAt": 1558777508923,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 187,
-            "character": 13
-          },
-          "end": {
-            "line": 187,
-            "character": 13
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/server.js"
-      }
-    },
-    {
-      "value": "console.log('hola mundo')",
-      "createdAt": 1558777463141,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 188,
-            "character": 0
-          },
-          "end": {
-            "line": 188,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/server.js"
-      }
-    },
-    {
-      "value": "hfdsa",
-      "createdAt": 1558777434948,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 186,
-            "character": 0
-          },
-          "end": {
-            "line": 186,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/server.js"
-      }
-    },
-    {
-      "value": "console.log('hol')",
-      "createdAt": 1558777428933,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 186,
-            "character": 0
-          },
-          "end": {
-            "line": 186,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/server.js"
-      }
-    },
-    {
-      "value": "t",
-      "createdAt": 1558777410347,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 0,
-            "character": 26
-          },
-          "end": {
-            "line": 0,
-            "character": 26
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/utility/restorePrevState.js"
-      }
-    },
-    {
-      "value": "console.log('hola')",
-      "createdAt": 1558775001871,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 0
-          },
-          "end": {
-            "line": 2,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/utility/restorePrevState.js"
-      }
-    },
-    {
-      "value": "\t\tbson = require('../build/Release/bson');",
-      "createdAt": 1558404794565,
-      "copyCount": 1,
+      "createdAt": 1570043981306,
+      "copyCount": 9,
       "useCount": 1,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 15,
-            "character": 0
+            "line": 27,
+            "character": 2
           },
           "end": {
-            "line": 15,
-            "character": 0
+            "line": 27,
+            "character": 2
           }
         },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/node_modules/mongodb/node_modules/bson/ext/index.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
       }
     },
     {
-      "value": "\t  bson = require('../build/Release/bson');  ",
-      "createdAt": 1558404789079,
+      "value": "    printf \"\\n\";",
+      "createdAt": 1572225770733,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 8
+          },
+          "end": {
+            "line": 11,
+            "character": 8
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "        echo \"arg::: $1\"",
+      "createdAt": 1572225754141,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
             "line": 9,
-            "character": 0
+            "character": 8
           },
           "end": {
             "line": 9,
-            "character": 0
+            "character": 8
           }
         },
-        "uri": "file:///Users/hayden/MEGA/lq_app/backend/node_modules/mongodb/node_modules/bson/ext/index.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "0",
-      "createdAt": 1558224152873,
-      "copyCount": 3,
-      "useCount": 3,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
-            "character": 93
-          },
-          "end": {
-            "line": 38,
-            "character": 93
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "style={{color: \"white\"}}",
-      "createdAt": 1558225122511,
+      "value": "    clear\n    printf \"${MAGENTA}Folder Contents:${NORMAL}\\n\\n\"",
+      "createdAt": 1572225736026,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 50,
-            "character": 14
+            "line": 4,
+            "character": 4
           },
           "end": {
-            "line": 50,
-            "character": 14
+            "line": 4,
+            "character": 4
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "x",
-      "createdAt": 1558224924330,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 37,
-            "character": 55
-          },
-          "end": {
-            "line": 37,
-            "character": 55
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "3",
-      "createdAt": 1558224923067,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 37,
-            "character": 54
-          },
-          "end": {
-            "line": 37,
-            "character": 54
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "2",
-      "createdAt": 1558224827695,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 12,
-            "character": 12
-          },
-          "end": {
-            "line": 12,
-            "character": 12
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "5",
-      "createdAt": 1558224812027,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 12,
-            "character": 13
-          },
-          "end": {
-            "line": 12,
-            "character": 13
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "500px",
-      "createdAt": 1558224787925,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 12,
-            "character": 12
-          },
-          "end": {
-            "line": 12,
-            "character": 12
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "$",
-      "createdAt": 1558223756418,
-      "copyCount": 2,
-      "useCount": 2,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 43,
-            "character": 16
-          },
-          "end": {
-            "line": 43,
-            "character": 16
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "            {}",
-      "createdAt": 1558224725919,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 52,
-            "character": 0
-          },
-          "end": {
-            "line": 52,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "price_per_hour",
-      "createdAt": 1558223749889,
-      "copyCount": 3,
-      "useCount": 3,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 43,
-            "character": 13
-          },
-          "end": {
-            "line": 43,
-            "character": 13
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "distance",
-      "createdAt": 1558224721407,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 50,
-            "character": 13
-          },
-          "end": {
-            "line": 50,
-            "character": 13
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "            {`$${price_per_hour}`}",
-      "createdAt": 1558224718906,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 49,
-            "character": 14
-          },
-          "end": {
-            "line": 49,
-            "character": 14
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "   const res = Object.keys(info);",
-      "createdAt": 1558224672665,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 29,
-            "character": 0
-          },
-          "end": {
-            "line": 29,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "    console.log(res);",
-      "createdAt": 1558224670657,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 30,
-            "character": 0
-          },
-          "end": {
-            "line": 30,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "distance_from_current",
-      "createdAt": 1558224438055,
-      "copyCount": 3,
-      "useCount": 3,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 31,
-            "character": 12
-          },
-          "end": {
-            "line": 31,
-            "character": 12
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "splitDistance ",
-      "createdAt": 1558224628932,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 33,
-            "character": 11
-          },
-          "end": {
-            "line": 33,
-            "character": 11
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "textSecondary",
-      "createdAt": 1558224450691,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 48,
-            "character": 27
-          },
-          "end": {
-            "line": 48,
-            "character": 27
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "`$${price_per_hour}`",
-      "createdAt": 1558224445090,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 50,
-            "character": 33
-          },
-          "end": {
-            "line": 50,
-            "character": 33
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "distan_from_you",
-      "createdAt": 1558224437053,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 31,
-            "character": 32
-          },
-          "end": {
-            "line": 31,
-            "character": 32
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "k",
-      "createdAt": 1558224416966,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 31,
-            "character": 11
-          },
-          "end": {
-            "line": 31,
-            "character": 11
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "        <Typography color=\"textSecondary\">\n          <h3>\n            {`$${price_per_hour}`}\n          </h3>\n        </Typography>",
-      "createdAt": 1558224403282,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 43,
-            "character": 0
-          },
-          "end": {
-            "line": 43,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "    const hackathonLocation = { lat: 37.8039001, lng: -122.272983 };",
-      "createdAt": 1558224293164,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 37,
-            "character": 0
-          },
-          "end": {
-            "line": 37,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": "-122.272983",
-      "createdAt": 1558224274084,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 40,
-            "character": 54
-          },
-          "end": {
-            "line": 40,
-            "character": 54
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": ",",
-      "createdAt": 1558224263024,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 40,
-            "character": 68
-          },
-          "end": {
-            "line": 40,
-            "character": 68
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": "37.8039001,",
-      "createdAt": 1558224250475,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
-            "character": 37
-          },
-          "end": {
-            "line": 38,
-            "character": 37
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": "const hackathonLocation = { lat: 37.8039001, lng: -122.272983 };",
-      "createdAt": 1558224236405,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 24,
-            "character": 0
-          },
-          "end": {
-            "line": 24,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": "a",
-      "createdAt": 1558208180843,
-      "copyCount": 4,
-      "useCount": 4,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 53,
-            "character": 29
-          },
-          "end": {
-            "line": 53,
-            "character": 29
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": "%",
-      "createdAt": 1558224153374,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
-            "character": 93
-          },
-          "end": {
-            "line": 38,
-            "character": 93
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "9",
-      "createdAt": 1558224151868,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
-            "character": 93
-          },
-          "end": {
-            "line": 38,
-            "character": 93
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "// InfoCard.propTypes = {\n//   classes: PropTypes.object.isRequired,\n// };\n\n// function Parent(props){\n//     return withStyles(styles)(<InfoCard foo={props.foo}/>);\n// }",
-      "createdAt": 1558224091045,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 52,
-            "character": 0
-          },
-          "end": {
-            "line": 52,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "1",
-      "createdAt": 1558223963851,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 36,
-            "character": 53
-          },
-          "end": {
-            "line": 36,
-            "character": 53
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "}",
-      "createdAt": 1558206381821,
-      "copyCount": 8,
-      "useCount": 8,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 15,
-            "character": 28
-          },
-          "end": {
-            "line": 15,
-            "character": 28
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": " display:  ",
-      "createdAt": 1558223840177,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 37,
-            "character": 22
-          },
-          "end": {
-            "line": 37,
-            "character": 22
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "\"",
-      "createdAt": 1558211621051,
-      "copyCount": 7,
-      "useCount": 7,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 37,
-            "character": 25
-          },
-          "end": {
-            "line": 37,
-            "character": 25
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/HoverMarker.js"
-      }
-    },
-    {
-      "value": "l",
-      "createdAt": 1558213834975,
-      "copyCount": 2,
-      "useCount": 2,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 68,
-            "character": 16
-          },
-          "end": {
-            "line": 68,
-            "character": 16
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
-      }
-    },
-    {
-      "value": " border: \"1px solid\"",
-      "createdAt": 1558223735813,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 37,
-            "character": 21
-          },
-          "end": {
-            "line": 37,
-            "character": 21
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "    maxWidth: 200",
-      "createdAt": 1558223706653,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 12,
-            "character": 0
-          },
-          "end": {
-            "line": 12,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "          <h1>\n            {locationName}\n          </h1>\n        <Typography color=\"textSecondary\">\n          <h3>\n            {price_per_hour}\n          </h3>\n        </Typography>\n        <Button style={{ background: '#449938' }} size=\"small\">Accept</Button>",
-      "createdAt": 1558223655211,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 41,
-            "character": 0
-          },
-          "end": {
-            "line": 41,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "        <div></div>",
-      "createdAt": 1558223649690,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
-            "character": 0
-          },
-          "end": {
-            "line": 38,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "        <div",
-      "createdAt": 1558223641528,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 37,
-            "character": 0
-          },
-          "end": {
-            "line": 37,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "      </CardActions>",
-      "createdAt": 1558222960222,
-      "copyCount": 3,
-      "useCount": 3,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 49,
-            "character": 0
-          },
-          "end": {
-            "line": 49,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "      <CardActions>",
-      "createdAt": 1558222959715,
-      "copyCount": 3,
-      "useCount": 3,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 48,
-            "character": 0
-          },
-          "end": {
-            "line": 48,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "      </CardContent>",
-      "createdAt": 1558223570175,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 45,
-            "character": 0
-          },
-          "end": {
-            "line": 45,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "      <CardContent>",
-      "createdAt": 1558223568668,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
-            "character": 0
-          },
-          "end": {
-            "line": 38,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "        <Button style={{ background: '#449938' }} size=\"small\">Accept</Button>",
-      "createdAt": 1558222966737,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 47,
-            "character": 0
-          },
-          "end": {
-            "line": 47,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "            {price_per_hour}",
-      "createdAt": 1558222933601,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 45,
-            "character": 0
-          },
-          "end": {
-            "line": 45,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "            {locationName}",
-      "createdAt": 1558222933094,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 46,
-            "character": 0
-          },
-          "end": {
-            "line": 46,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "          <h1>\n            {locationName}\n          </h1>",
-      "createdAt": 1558222926067,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 40,
-            "character": 0
-          },
-          "end": {
-            "line": 40,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "        {/* <Typography className={classes.title} variant=\"h1\" component=\"h2\">\n        </Typography> */}",
-      "createdAt": 1558222918045,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 42,
-            "character": 0
-          },
-          "end": {
-            "line": 42,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "          {locationName}",
-      "createdAt": 1558222875350,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 43,
-            "character": 0
-          },
-          "end": {
-            "line": 43,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "        <Typography component=\"p\">\n          {/* well meaning and kindly.\n          <br /> */}\n          {\"5 miles away\"}\n        </Typography>",
-      "createdAt": 1558222748961,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 44,
-            "character": 0
-          },
-          "end": {
-            "line": 44,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "          $5",
-      "createdAt": 1558222724451,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 43,
-            "character": 0
-          },
-          "end": {
-            "line": 43,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "          {/* be\n          {bull}\n          nev\n          {bull}o{bull}\n          lent */}",
-      "createdAt": 1558222722439,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 39,
-            "character": 0
-          },
-          "end": {
-            "line": 39,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
-      }
-    },
-    {
-      "value": "        {/* <Typography className={classes.title} color=\"textSecondary\" gutterBottom>\n          Word of the Day\n        </Typography> */}",
-      "createdAt": 1558222704856,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
-            "character": 0
-          },
-          "end": {
-            "line": 38,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
       "value": " ",
-      "createdAt": 1552808825121,
-      "copyCount": 509,
-      "useCount": 509,
-      "language": "vue",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 52,
-            "character": 7
-          },
-          "end": {
-            "line": 52,
-            "character": 7
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/lq_app/frontend/src/components/PumpControlPanel.vue"
-      }
-    },
-    {
-      "value": "_",
-      "createdAt": 1558222464567,
-      "copyCount": 1,
-      "useCount": 1,
+      "createdAt": 1560383491720,
+      "copyCount": 795,
+      "useCount": 784,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 31,
-            "character": 51
+            "line": 8,
+            "character": 0
           },
           "end": {
-            "line": 31,
-            "character": 51
+            "line": 8,
+            "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
+        "uri": "file:///Users/hayden/MEGA/projects/archive/team-calendar/frontend/src/components/This.js"
       }
     },
     {
-      "value": " \"\n \"\n \"\n \"\n \"\n \"\n \"",
-      "createdAt": 1558222448898,
+      "value": "    if [ $# -eq 0 ]\n    then \n      colorls;",
+      "createdAt": 1572225415857,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 31,
-            "character": 11
+            "line": 6,
+            "character": 0
           },
           "end": {
-            "line": 31,
-            "character": 11
+            "line": 6,
+            "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "d",
-      "createdAt": 1558222224058,
+      "value": "    else \n      colorls $1;\n    fi;",
+      "createdAt": 1572225398264,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 28,
-            "character": 23
+            "line": 7,
+            "character": 4
           },
           "end": {
-            "line": 28,
-            "character": 23
+            "line": 7,
+            "character": 4
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "location\nlocation",
-      "createdAt": 1558222189327,
+      "value": "spank () {\n}",
+      "createdAt": 1572225231917,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 30,
-            "character": 16
+            "line": 14,
+            "character": 0
           },
           "end": {
-            "line": 30,
-            "character": 16
+            "line": 14,
+            "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "info",
-      "createdAt": 1558222180283,
+      "value": "            echo \"Arg $1 supplied\"",
+      "createdAt": 1572225001688,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 61,
-            "character": 10
+            "line": 10,
+            "character": 4
           },
           "end": {
-            "line": 61,
-            "character": 10
+            "line": 10,
+            "character": 4
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "console.log(Popup)",
-      "createdAt": 1558222166720,
+      "value": "    colorls;",
+      "createdAt": 1572224999170,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 12,
+            "character": 4
+          },
+          "end": {
+            "line": 12,
+            "character": 4
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "            echo \"No arguments supplied\"",
+      "createdAt": 1572224994148,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 8,
+            "character": 8
+          },
+          "end": {
+            "line": 8,
+            "character": 8
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "]",
+      "createdAt": 1572218644185,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
             "line": 4,
-            "character": 0
+            "character": 22
           },
           "end": {
             "line": 4,
+            "character": 22
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "    if [ $# -eq 0 ] then echo \"No arguments supplied\"\n    else \n      echo \"Arg $1 supplied\"\n    fi",
+      "createdAt": 1572224949451,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 0
+          },
+          "end": {
+            "line": 11,
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "    cd \"$1\"; ",
+      "createdAt": 1572224944424,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 4
+          },
+          "end": {
+            "line": 7,
+            "character": 4
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "\"",
+      "createdAt": 1570235822745,
+      "copyCount": 5,
+      "useCount": 1,
+      "language": "cpp",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 173,
+            "character": 9
+          },
+          "end": {
+            "line": 173,
+            "character": 9
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/other_lq/firmware/CMDString/cmdString.cpp"
+      }
+    },
+    {
+      "value": "&& ",
+      "createdAt": 1572224835952,
+      "copyCount": 3,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "&",
+      "createdAt": 1572224856055,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 12
+          },
+          "end": {
+            "line": 5,
+            "character": 12
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "& ",
+      "createdAt": 1572224855554,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 13
+          },
+          "end": {
+            "line": 5,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "l",
+      "createdAt": 1569992852208,
+      "copyCount": 5,
+      "useCount": 3,
+      "language": "html",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 30,
+            "character": 41
+          },
+          "end": {
+            "line": 30,
+            "character": 41
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
+      }
+    },
+    {
+      "value": "}",
+      "createdAt": 1569993616325,
+      "copyCount": 4,
+      "useCount": 1,
+      "language": "html",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 31,
+            "character": 40
+          },
+          "end": {
+            "line": 31,
+            "character": 40
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
+      }
+    },
+    {
+      "value": "spank () {",
+      "createdAt": 1572224198437,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 4
+          },
+          "end": {
+            "line": 7,
+            "character": 4
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "    cd \"$1\"",
+      "createdAt": 1572224159756,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 0
+          },
+          "end": {
+            "line": 5,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "tc() { clear && printf \"${MAGENTA}Folder Contents:${NORMAL}\\n\\n\" && cd \"$1\" && colorls && printf \"\\n\" }",
+      "createdAt": 1572224151207,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": " echor ",
+      "createdAt": 1572223955076,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 1
+          },
+          "end": {
+            "line": 3,
+            "character": 1
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "# loop over arguments and trash each\n\nsrm () { for arg in \"$@\"; do trash \"$arg\"; done; l }\nsrm () { for arg in \"$@\"; do trash \"$arg\"; done; l }\n# srm bar.txt baz.txt bing.txt foo.txt",
+      "createdAt": 1572223906911,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "srm () { for arg in \"$@\"; do trash \"$arg\"; done; l }",
+      "createdAt": 1572223587111,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 2
+          },
+          "end": {
+            "line": 5,
+            "character": 2
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "srm bar.txt baz.txt bing.txt foo.txt",
+      "createdAt": 1572223581079,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 2
+          },
+          "end": {
+            "line": 6,
+            "character": 2
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "tl () { echo \" hi\" && l && echo \"bye\" }",
+      "createdAt": 1572223476026,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 0
+          },
+          "end": {
+            "line": 6,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "t",
+      "createdAt": 1572219122672,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 13
+          },
+          "end": {
+            "line": 4,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "\" ",
+      "createdAt": 1572223495615,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 49
+          },
+          "end": {
+            "line": 6,
+            "character": 49
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "echo ",
+      "createdAt": 1572221072304,
+      "copyCount": 4,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 2
+          },
+          "end": {
+            "line": 5,
+            "character": 2
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
       "value": "s",
-      "createdAt": 1558222138273,
+      "createdAt": 1572223297520,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 31,
-            "character": 24
+            "line": 5,
+            "character": 66
           },
           "end": {
-            "line": 31,
-            "character": 24
+            "line": 5,
+            "character": 66
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "    console.log(locations);",
-      "createdAt": 1558222101531,
+      "value": "#",
+      "createdAt": 1572223220133,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 50,
+            "line": 6,
             "character": 0
           },
           "end": {
-            "line": 50,
+            "line": 6,
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
-      "value": "-300px",
-      "createdAt": 1558221999555,
+      "value": "  echo $arg",
+      "createdAt": 1572223219126,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 9,
-            "character": 23
-          },
-          "end": {
-            "line": 9,
-            "character": 23
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
-      }
-    },
-    {
-      "value": "o",
-      "createdAt": 1558221956353,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 8,
-            "character": 25
-          },
-          "end": {
-            "line": 8,
-            "character": 25
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
-      }
-    },
-    {
-      "value": "          <img src={chargeMarkerImg}/>;",
-      "createdAt": 1558221883069,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 38,
+            "line": 6,
             "character": 0
           },
           "end": {
-            "line": 38,
+            "line": 6,
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
-      "value": "        marker",
-      "createdAt": 1558221806568,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 13,
-            "character": 0
-          },
-          "end": {
-            "line": 13,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
-      }
-    },
-    {
-      "value": ">",
-      "createdAt": 1558221724575,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 35,
-            "character": 44
-          },
-          "end": {
-            "line": 35,
-            "character": 44
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
-      }
-    },
-    {
-      "value": "<",
-      "createdAt": 1558221723567,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 35,
-            "character": 44
-          },
-          "end": {
-            "line": 35,
-            "character": 44
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
-      }
-    },
-    {
-      "value": "div",
-      "createdAt": 1558221486852,
+      "value": ",",
+      "createdAt": 1570043992835,
       "copyCount": 2,
-      "useCount": 2,
+      "useCount": 1,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 34,
-            "character": 19
+            "line": 26,
+            "character": 18
           },
           "end": {
-            "line": 34,
-            "character": 19
+            "line": 26,
+            "character": 18
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
       }
     },
     {
-      "value": "/",
-      "createdAt": 1558211095929,
-      "copyCount": 3,
-      "useCount": 3,
-      "language": "javascript",
+      "value": "$",
+      "createdAt": 1572218955363,
+      "copyCount": 4,
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 1,
-            "character": 48
+            "line": 4,
+            "character": 6
           },
           "end": {
-            "line": 1,
-            "character": 48
+            "line": 4,
+            "character": 6
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/HoverMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
-      "value": "Popup ",
-      "createdAt": 1558221668829,
+      "value": "@",
+      "createdAt": 1572221542769,
       "copyCount": 2,
-      "useCount": 2,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 36,
-            "character": 19
+            "line": 3,
+            "character": 10
           },
           "end": {
-            "line": 36,
-            "character": 19
+            "line": 3,
+            "character": 10
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "div ",
-      "createdAt": 1558221673348,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "value": "touch ",
+      "createdAt": 1572221105995,
+      "copyCount": 4,
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 35,
-            "character": 19
+            "line": 5,
+            "character": 2
           },
           "end": {
-            "line": 35,
-            "character": 19
+            "line": 5,
+            "character": 2
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
-      "value": "import PropTypes from 'prop-types';",
-      "createdAt": 1558221649246,
+      "value": "touch foo bar ",
+      "createdAt": 1572222997982,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 1,
+            "line": 3,
             "character": 0
           },
           "end": {
-            "line": 1,
+            "line": 3,
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
-      "value": "    console.log(props.bar);",
-      "createdAt": 1558221632694,
+      "value": "ls ",
+      "createdAt": 1572222941225,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 28,
+            "line": 4,
+            "character": 49
+          },
+          "end": {
+            "line": 4,
+            "character": 49
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "srm () { for arg in \"$@\"; do trash \"$arg\"; done }",
+      "createdAt": 1572222020874,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 47
+          },
+          "end": {
+            "line": 4,
+            "character": 47
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "srm () {\n    for arg in \"$@\"\n    do \n        trash \"$arg\"\n    done\n}",
+      "createdAt": 1572221922844,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
             "character": 0
           },
           "end": {
-            "line": 28,
+            "line": 4,
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/Popup.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "for arg in \"$@\"\ndo \n    trash \"$arg\"\ndone",
+      "createdAt": 1572221791611,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 0
+          },
+          "end": {
+            "line": 7,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
       }
     },
     {
       "value": ".",
-      "createdAt": 1558211507437,
-      "copyCount": 2,
+      "createdAt": 1569993595750,
+      "copyCount": 3,
       "useCount": 2,
+      "language": "html",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 31,
+            "character": 19
+          },
+          "end": {
+            "line": 31,
+            "character": 19
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
+      }
+    },
+    {
+      "value": "} ",
+      "createdAt": 1572221640265,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 8,
+            "character": 0
+          },
+          "end": {
+            "line": 8,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "del() {",
+      "createdAt": 1572221639261,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 4
+          },
+          "end": {
+            "line": 7,
+            "character": 4
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "del",
+      "createdAt": 1572221628697,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 0
+          },
+          "end": {
+            "line": 11,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "    echo \"$#\"",
+      "createdAt": 1572221621666,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 0
+          },
+          "end": {
+            "line": 5,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "for arg in \"$@\"\ndo \n  touch \"$arg.txt\"\ndone",
+      "createdAt": 1572221618156,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 0
+          },
+          "end": {
+            "line": 3,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": ")",
+      "createdAt": 1569955762719,
+      "copyCount": 6,
+      "useCount": 4,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 32,
-            "character": 22
+            "line": 3,
+            "character": 58
           },
           "end": {
-            "line": 32,
-            "character": 22
+            "line": 3,
+            "character": 58
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/HoverMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/docker/node-tuto/postman.js"
       }
     },
     {
-      "value": "components",
-      "createdAt": 1558221506776,
+      "value": "d",
+      "createdAt": 1572221447783,
       "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "m",
+      "createdAt": 1570033678345,
+      "copyCount": 2,
       "useCount": 1,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 3,
-            "character": 21
+            "line": 13,
+            "character": 20
           },
           "end": {
-            "line": 3,
-            "character": 21
+            "line": 13,
+            "character": 20
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
       }
     },
     {
-      "value": "ChargeMarker\nChargeMarker",
-      "createdAt": 1558221502254,
+      "value": "(",
+      "createdAt": 1572221142671,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 3,
-            "character": 7
+            "line": 5,
+            "character": 8
           },
           "end": {
-            "line": 3,
-            "character": 7
+            "line": 5,
+            "character": 8
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/components/ChargeMarker.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
-      "value": "import ChargeMarker from '../components/ChargeMarker';",
-      "createdAt": 1558221384408,
-      "copyCount": 2,
-      "useCount": 2,
-      "language": "javascript",
+      "value": "  touc\"this is an arg: $arg\"",
+      "createdAt": 1572221073816,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 0
+          },
+          "end": {
+            "line": 5,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "echo $1 $2 $3",
+      "createdAt": 1572220997469,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "count=0\n\nwhile [ \"$count\" -lt 10 ]\ndo\n    echo $count\n    count=$(( $count + 1 ))\ndone",
+      "createdAt": 1572220926559,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 0
+          },
+          "end": {
+            "line": 1,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "end",
+      "createdAt": 1572219523492,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
@@ -1898,107 +1498,507 @@
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
-      "value": "\"http://loca/event/1\"",
-      "createdAt": 1558220484349,
+      "value": "count=\"$(ls | wc -l)\" \n\nif [ $count -eq 2 ]\nthen\n    echo \"truebie\"\nelse \n  echo \"elsie\"\nfi",
+      "createdAt": 1572219471629,
       "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
+      "useCount": 0,
+      "language": "shellscript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 25,
-            "character": 56
-          },
-          "end": {
-            "line": 25,
-            "character": 56
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/App.js"
-      }
-    },
-    {
-      "value": "'http://localhost:8080/event/1'",
-      "createdAt": 1558220480331,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 25,
+            "line": 1,
             "character": 0
           },
           "end": {
-            "line": 25,
+            "line": 1,
             "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/App.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
       }
     },
     {
-      "value": "rest/v1/sink",
-      "createdAt": 1558220475820,
+      "value": "eq ",
+      "createdAt": 1572218646692,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 13
+          },
+          "end": {
+            "line": 4,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": " ((   9 ))  ",
+      "createdAt": 1572219093027,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 2
+          },
+          "end": {
+            "line": 4,
+            "character": 2
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": ">",
+      "createdAt": 1569992806164,
+      "copyCount": 2,
+      "useCount": 1,
+      "language": "html",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 13,
+            "character": 26
+          },
+          "end": {
+            "line": 13,
+            "character": 26
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
+      }
+    },
+    {
+      "value": "echo \"${count}\"",
+      "createdAt": 1572219081975,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 0
+          },
+          "end": {
+            "line": 3,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "x",
+      "createdAt": 1572218964918,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 6
+          },
+          "end": {
+            "line": 2,
+            "character": 6
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "1",
+      "createdAt": 1572218964413,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 6
+          },
+          "end": {
+            "line": 2,
+            "character": 6
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "0",
+      "createdAt": 1572218962903,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 7
+          },
+          "end": {
+            "line": 2,
+            "character": 7
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "count ",
+      "createdAt": 1572218954862,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 7
+          },
+          "end": {
+            "line": 4,
+            "character": 7
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "-",
+      "createdAt": 1569993694686,
+      "copyCount": 2,
+      "useCount": 1,
+      "language": "html",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 13,
+            "character": 17
+          },
+          "end": {
+            "line": 13,
+            "character": 17
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
+      }
+    },
+    {
+      "value": "$count -eq 9",
+      "createdAt": 1572218640111,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 8
+          },
+          "end": {
+            "line": 4,
+            "character": 8
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "[",
+      "createdAt": 1572218635096,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 3
+          },
+          "end": {
+            "line": 4,
+            "character": 3
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "10",
+      "createdAt": 1572218577268,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 16
+          },
+          "end": {
+            "line": 4,
+            "character": 16
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "count=10\nif [ $count -eq 10 ]; then echo \"truebie\"; fi",
+      "createdAt": 1572218506866,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "w",
+      "createdAt": 1572218477210,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 17
+          },
+          "end": {
+            "line": 6,
+            "character": 17
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "o",
+      "createdAt": 1572218452540,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 7
+          },
+          "end": {
+            "line": 2,
+            "character": 7
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "cat << spank\nfjdksal;\nfjdkslajfdklsajfdklsajfl\nspank",
+      "createdAt": 1572217297174,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": ": '\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"'\n\necho \"fdsal;kljfkld;sjafkldsaj\"",
+      "createdAt": 1572217269569,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 0
+          },
+          "end": {
+            "line": 1,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "'",
+      "createdAt": 1570223355870,
+      "copyCount": 3,
+      "useCount": 2,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 14,
+            "character": 25
+          },
+          "end": {
+            "line": 14,
+            "character": 25
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/projects/tiny/app.js"
+      }
+    },
+    {
+      "value": "\t\tprint(\"command\");\n\t\tprintln(_command);",
+      "createdAt": 1570236226269,
+      "copyCount": 1,
+      "useCount": 1,
+      "language": "cpp",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 194,
+            "character": 0
+          },
+          "end": {
+            "line": 194,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/other_lq/firmware/CMDString/cmdString.cpp"
+      }
+    },
+    {
+      "value": "\tprint(\"*cmd\");\n\tprintln(*cmd);",
+      "createdAt": 1570236213488,
+      "copyCount": 1,
+      "useCount": 1,
+      "language": "cpp",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 172,
+            "character": 0
+          },
+          "end": {
+            "line": 172,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/other_lq/firmware/CMDString/cmdString.cpp"
+      }
+    },
+    {
+      "value": "localhost",
+      "createdAt": 1570223365420,
       "copyCount": 1,
       "useCount": 1,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 24,
-            "character": 29
+            "line": 14,
+            "character": 26
           },
           "end": {
-            "line": 24,
-            "character": 29
+            "line": 14,
+            "character": 26
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/App.js"
+        "uri": "file:///Users/hayden/MEGA/projects/tiny/app.js"
       }
     },
     {
-      "value": "event/1",
-      "createdAt": 1558220471302,
+      "value": "mongo",
+      "createdAt": 1570223357884,
       "copyCount": 1,
       "useCount": 1,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 25,
-            "character": 39
+            "line": 14,
+            "character": 26
           },
           "end": {
-            "line": 25,
-            "character": 39
+            "line": 14,
+            "character": 26
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/App.js"
+        "uri": "file:///Users/hayden/MEGA/projects/tiny/app.js"
       }
     },
     {
-      "value": "'http://localhost:8080/rest/v1/sink'",
-      "createdAt": 1558220463268,
+      "value": "    const { todos } =  this.state;",
+      "createdAt": 1570033837720,
       "copyCount": 1,
       "useCount": 1,
       "language": "javascript",
       "createdLocation": {
         "range": {
           "start": {
-            "line": 39,
-            "character": 18
+            "line": 30,
+            "character": 0
           },
           "end": {
-            "line": 39,
-            "character": 18
+            "line": 30,
+            "character": 0
           }
         },
-        "uri": "file:///Users/hayden/MEGA/team-calendar/frontend/src/views/Main.js"
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
+      }
+    },
+    {
+      "value": "  ",
+      "createdAt": 1570033827669,
+      "copyCount": 1,
+      "useCount": 1,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 29,
+            "character": 0
+          },
+          "end": {
+            "line": 29,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
       }
     }
   ]
