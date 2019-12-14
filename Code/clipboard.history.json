@@ -2,6 +2,1386 @@
   "version": 2,
   "clips": [
     {
+      "value": ",",
+      "createdAt": 1570043992835,
+      "copyCount": 8,
+      "useCount": 1,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 26,
+            "character": 18
+          },
+          "end": {
+            "line": 26,
+            "character": 18
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
+      }
+    },
+    {
+      "value": "4234324",
+      "createdAt": 1572671773590,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "start",
+      "createdAt": 1572671766554,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 5
+          },
+          "end": {
+            "line": 2,
+            "character": 5
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "    \"duration\": 5858848484",
+      "createdAt": 1572671764043,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 0
+          },
+          "end": {
+            "line": 3,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "bang",
+      "createdAt": 1572670571572,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 5
+          },
+          "end": {
+            "line": 3,
+            "character": 5
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "\"baz\"",
+      "createdAt": 1572670565538,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 12
+          },
+          "end": {
+            "line": 3,
+            "character": 12
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "\"",
+      "createdAt": 1570235822745,
+      "copyCount": 7,
+      "useCount": 1,
+      "language": "cpp",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 173,
+            "character": 9
+          },
+          "end": {
+            "line": 173,
+            "character": 9
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/other_lq/firmware/CMDString/cmdString.cpp"
+      }
+    },
+    {
+      "value": "_",
+      "createdAt": 1572670544945,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "(),",
+      "createdAt": 1572670541935,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 12
+          },
+          "end": {
+            "line": 2,
+            "character": 12
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "random",
+      "createdAt": 1572670541431,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "Math",
+      "createdAt": 1572670540931,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "5849375483975",
+      "createdAt": 1572670535827,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "58940358",
+      "createdAt": 1572670528789,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "\"bar\"",
+      "createdAt": 1572670525781,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 13
+          },
+          "end": {
+            "line": 2,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/test.json"
+      }
+    },
+    {
+      "value": "foo",
+      "createdAt": 1572229833862,
+      "copyCount": 3,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 4
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "bar",
+      "createdAt": 1572229837374,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 14
+          },
+          "end": {
+            "line": 3,
+            "character": 14
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "console.log('Hello');\n\nsetTimeout(() => {\n    console.log('World')\n}, 0);\n\nconsole.log('!!');\n",
+      "createdAt": 1572560090727,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 0
+          },
+          "end": {
+            "line": 0,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "[1,2,3].map();",
+      "createdAt": 1572560058547,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 0
+          },
+          "end": {
+            "line": 7,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "setTimeout(() => {\n    console.log('World')\n}, 0);",
+      "createdAt": 1572559969559,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "1000",
+      "createdAt": 1572559658661,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 4
+          },
+          "end": {
+            "line": 4,
+            "character": 4
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "setInterval",
+      "createdAt": 1572559605348,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 0
+          },
+          "end": {
+            "line": 1,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "0",
+      "createdAt": 1572407896407,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 44
+          },
+          "end": {
+            "line": 2,
+            "character": 44
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": ")",
+      "createdAt": 1569955762719,
+      "copyCount": 13,
+      "useCount": 4,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 58
+          },
+          "end": {
+            "line": 3,
+            "character": 58
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/docker/node-tuto/postman.js"
+      }
+    },
+    {
+      "value": "(",
+      "createdAt": 1572221142671,
+      "copyCount": 4,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 8
+          },
+          "end": {
+            "line": 5,
+            "character": 8
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "",
+      "createdAt": 1558079096283,
+      "copyCount": 1177,
+      "useCount": 1165,
+      "language": "html",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 45,
+            "character": 0
+          },
+          "end": {
+            "line": 45,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/react/bootstrap-4.3.1/site/docs/4.3/examples/starter-template/index.html"
+      }
+    },
+    {
+      "value": "var",
+      "createdAt": 1572408471646,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 6
+          },
+          "end": {
+            "line": 1,
+            "character": 6
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "let",
+      "createdAt": 1572408459480,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 5
+          },
+          "end": {
+            "line": 1,
+            "character": 5
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "var ",
+      "createdAt": 1572408415257,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 5
+          },
+          "end": {
+            "line": 1,
+            "character": 5
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "offscreenBuffering",
+      "createdAt": 1572408387128,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 6
+          },
+          "end": {
+            "line": 4,
+            "character": 6
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "    console.log()",
+      "createdAt": 1572408346774,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "    console.",
+      "createdAt": 1572408340749,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "    (function(){\n        var j = i;\n        setTimeout(function() {\n            console.log(j)\n        }, 400 * i);\n    })()",
+      "createdAt": 1572408334685,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "console.log({test: i})",
+      "createdAt": 1572408330664,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 9,
+            "character": 0
+          },
+          "end": {
+            "line": 9,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "i",
+      "createdAt": 1572407850160,
+      "copyCount": 4,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 18
+          },
+          "end": {
+            "line": 3,
+            "character": 18
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "        let j =",
+      "createdAt": 1572408251779,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 8
+          },
+          "end": {
+            "line": 3,
+            "character": 8
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "j",
+      "createdAt": 1572408165334,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 30
+          },
+          "end": {
+            "line": 3,
+            "character": 30
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "s",
+      "createdAt": 1572223297520,
+      "copyCount": 2,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 66
+          },
+          "end": {
+            "line": 5,
+            "character": 66
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
+      }
+    },
+    {
+      "value": "        console.log(i)dd",
+      "createdAt": 1572408144220,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 8
+          },
+          "end": {
+            "line": 3,
+            "character": 8
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "    })()",
+      "createdAt": 1572408124989,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "    ((i) => {",
+      "createdAt": 1572408124486,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 5
+          },
+          "end": {
+            "line": 2,
+            "character": 5
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "     setTimeout(() => { console.log(i) } , i * 500))",
+      "createdAt": 1572408093334,
+      "copyCount": 1,
+      "useCount": 1,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 5
+          },
+          "end": {
+            "line": 3,
+            "character": 5
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "     (i)",
+      "createdAt": 1572408093834,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 0
+          },
+          "end": {
+            "line": 3,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": ";",
+      "createdAt": 1570043981306,
+      "copyCount": 10,
+      "useCount": 1,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 27,
+            "character": 2
+          },
+          "end": {
+            "line": 27,
+            "character": 2
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
+      }
+    },
+    {
+      "value": "1",
+      "createdAt": 1572407895907,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 43
+          },
+          "end": {
+            "line": 2,
+            "character": 43
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "const logVal = (val) => () => { console.log(val) };",
+      "createdAt": 1572407886861,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 0
+          },
+          "end": {
+            "line": 0,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "logVal",
+      "createdAt": 1572407870282,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 13
+          },
+          "end": {
+            "line": 3,
+            "character": 13
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "foo\nfoo",
+      "createdAt": 1572407756259,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 6
+          },
+          "end": {
+            "line": 0,
+            "character": 6
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "for (var i=1; i<=5; i++) {",
+      "createdAt": 1572407710917,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 0
+          },
+          "end": {
+            "line": 0,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": " function timer(){\n\t\tconsole.log( i );\n\t}, i*1000 ",
+      "createdAt": 1572407683239,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 12
+          },
+          "end": {
+            "line": 1,
+            "character": 12
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "\nconst foo = () => {\n    const bar = () => {\n        var a = 12;\n    };\n\n    bar();\n    console.log(a)\n};\nconsole.log('yellow')\nconsole.log('purple')\nfoo();",
+      "createdAt": 1572407676707,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 0
+          },
+          "end": {
+            "line": 0,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "console.log('purple')",
+      "createdAt": 1572406185739,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 0
+          },
+          "end": {
+            "line": 11,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "foo();",
+      "createdAt": 1572406182729,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 12,
+            "character": 0
+          },
+          "end": {
+            "line": 12,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/scratch/app.js"
+      }
+    },
+    {
+      "value": "#! /bin/bash",
+      "createdAt": 1572235102239,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 0
+          },
+          "end": {
+            "line": 0,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "files=('foo' 'bar' 'bing' 'baz')\n\nfor arg in \"${files[@]}\"\ndo \n   touch \"$arg.txt\"\ndone",
+      "createdAt": 1572235100232,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 0
+          },
+          "end": {
+            "line": 1,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
+      }
+    },
+    {
+      "value": "{\n    \"foo\": \"bar\"\n}",
+      "createdAt": 1572230105258,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 2
+          },
+          "end": {
+            "line": 0,
+            "character": 2
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "\"foo\": \"bar\"",
+      "createdAt": 1572230064041,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 2
+          },
+          "end": {
+            "line": 3,
+            "character": 2
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": " ",
+      "createdAt": 1560383491720,
+      "copyCount": 799,
+      "useCount": 784,
+      "language": "javascript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 8,
+            "character": 0
+          },
+          "end": {
+            "line": 8,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/projects/archive/team-calendar/frontend/src/components/This.js"
+      }
+    },
+    {
+      "value": "}",
+      "createdAt": 1569993616325,
+      "copyCount": 5,
+      "useCount": 1,
+      "language": "html",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 31,
+            "character": 40
+          },
+          "end": {
+            "line": 31,
+            "character": 40
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
+      }
+    },
+    {
+      "value": "{",
+      "createdAt": 1572230050995,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 0
+          },
+          "end": {
+            "line": 1,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "    \"pickle\": \"packle\"",
+      "createdAt": 1572230046984,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "'",
+      "createdAt": 1572229853947,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 8
+          },
+          "end": {
+            "line": 2,
+            "character": 8
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "packle",
+      "createdAt": 1572229840390,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 14
+          },
+          "end": {
+            "line": 3,
+            "character": 14
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "    \"\"",
+      "createdAt": 1572229827328,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "b",
+      "createdAt": 1572229818796,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "json",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 14
+          },
+          "end": {
+            "line": 2,
+            "character": 14
+          }
+        },
+        "uri": "untitled:/Users/hayden/Downloads/data.json"
+      }
+    },
+    {
+      "value": "curl -d \"$json\" -H \"Content-Type: application/json\" -X POST http://localhost:5050/test",
+      "createdAt": 1572229731365,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 0
+          },
+          "end": {
+            "line": 3,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/config/tapi.sh"
+      }
+    },
+    {
+      "value": "    \"key1\":\"value1\", \"key2\":\"value2\"}'",
+      "createdAt": 1572229730357,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 0
+          },
+          "end": {
+            "line": 2,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/config/tapi.sh"
+      }
+    },
+    {
+      "value": "json='{ ",
+      "createdAt": 1572229729352,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 4
+          },
+          "end": {
+            "line": 2,
+            "character": 4
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/config/tapi.sh"
+      }
+    },
+    {
+      "value": "/",
+      "createdAt": 1572229604186,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 7
+          },
+          "end": {
+            "line": 2,
+            "character": 7
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/config/tapi.sh"
+      }
+    },
+    {
+      "value": "'{\"key1\":\"value1\", \"key2\":\"value2\"}'",
+      "createdAt": 1572229428661,
+      "copyCount": 1,
+      "useCount": 0,
+      "language": "shellscript",
+      "createdLocation": {
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 0
+          },
+          "end": {
+            "line": 1,
+            "character": 0
+          }
+        },
+        "uri": "file:///Users/hayden/MEGA/config/tapi.sh"
+      }
+    },
+    {
       "value": "l () {\n    printf \"\\n\"\n    if [ $# -eq 0 ] \n        then\n            clear\n            printf \"${MAGENTA}Current Directory:${NORMAL}\\n\\n\"\n            colorls\n            printf \"\\n\"\n        else\n            printf \"${MAGENTA}Showing $1:${NORMAL}\\n\\n\"\n            colorls $1\n            printf \"\\n\"\n    fi\n}\n",
       "createdAt": 1572227101847,
       "copyCount": 1,
@@ -242,26 +1622,6 @@
       }
     },
     {
-      "value": "",
-      "createdAt": 1558079096283,
-      "copyCount": 1174,
-      "useCount": 1165,
-      "language": "html",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 45,
-            "character": 0
-          },
-          "end": {
-            "line": 45,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/react/bootstrap-4.3.1/site/docs/4.3/examples/starter-template/index.html"
-      }
-    },
-    {
       "value": "    printf \"\\n\"",
       "createdAt": 1572225992965,
       "copyCount": 1,
@@ -362,26 +1722,6 @@
       }
     },
     {
-      "value": ";",
-      "createdAt": 1570043981306,
-      "copyCount": 9,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 27,
-            "character": 2
-          },
-          "end": {
-            "line": 27,
-            "character": 2
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
-      }
-    },
-    {
       "value": "    printf \"\\n\";",
       "createdAt": 1572225770733,
       "copyCount": 1,
@@ -439,26 +1779,6 @@
           }
         },
         "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": " ",
-      "createdAt": 1560383491720,
-      "copyCount": 795,
-      "useCount": 784,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 8,
-            "character": 0
-          },
-          "end": {
-            "line": 8,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/projects/archive/team-calendar/frontend/src/components/This.js"
       }
     },
     {
@@ -642,26 +1962,6 @@
       }
     },
     {
-      "value": "\"",
-      "createdAt": 1570235822745,
-      "copyCount": 5,
-      "useCount": 1,
-      "language": "cpp",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 173,
-            "character": 9
-          },
-          "end": {
-            "line": 173,
-            "character": 9
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/other_lq/firmware/CMDString/cmdString.cpp"
-      }
-    },
-    {
       "value": "&& ",
       "createdAt": 1572224835952,
       "copyCount": 3,
@@ -699,1306 +1999,6 @@
           }
         },
         "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "& ",
-      "createdAt": 1572224855554,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 13
-          },
-          "end": {
-            "line": 5,
-            "character": 13
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "l",
-      "createdAt": 1569992852208,
-      "copyCount": 5,
-      "useCount": 3,
-      "language": "html",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 30,
-            "character": 41
-          },
-          "end": {
-            "line": 30,
-            "character": 41
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
-      }
-    },
-    {
-      "value": "}",
-      "createdAt": 1569993616325,
-      "copyCount": 4,
-      "useCount": 1,
-      "language": "html",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 31,
-            "character": 40
-          },
-          "end": {
-            "line": 31,
-            "character": 40
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
-      }
-    },
-    {
-      "value": "spank () {",
-      "createdAt": 1572224198437,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 7,
-            "character": 4
-          },
-          "end": {
-            "line": 7,
-            "character": 4
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "    cd \"$1\"",
-      "createdAt": 1572224159756,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 0
-          },
-          "end": {
-            "line": 5,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "tc() { clear && printf \"${MAGENTA}Folder Contents:${NORMAL}\\n\\n\" && cd \"$1\" && colorls && printf \"\\n\" }",
-      "createdAt": 1572224151207,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 0
-          },
-          "end": {
-            "line": 2,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": " echor ",
-      "createdAt": 1572223955076,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 3,
-            "character": 1
-          },
-          "end": {
-            "line": 3,
-            "character": 1
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "# loop over arguments and trash each\n\nsrm () { for arg in \"$@\"; do trash \"$arg\"; done; l }\nsrm () { for arg in \"$@\"; do trash \"$arg\"; done; l }\n# srm bar.txt baz.txt bing.txt foo.txt",
-      "createdAt": 1572223906911,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 0
-          },
-          "end": {
-            "line": 2,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "srm () { for arg in \"$@\"; do trash \"$arg\"; done; l }",
-      "createdAt": 1572223587111,
-      "copyCount": 2,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 2
-          },
-          "end": {
-            "line": 5,
-            "character": 2
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "srm bar.txt baz.txt bing.txt foo.txt",
-      "createdAt": 1572223581079,
-      "copyCount": 2,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 6,
-            "character": 2
-          },
-          "end": {
-            "line": 6,
-            "character": 2
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "tl () { echo \" hi\" && l && echo \"bye\" }",
-      "createdAt": 1572223476026,
-      "copyCount": 2,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 6,
-            "character": 0
-          },
-          "end": {
-            "line": 6,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "t",
-      "createdAt": 1572219122672,
-      "copyCount": 2,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 13
-          },
-          "end": {
-            "line": 4,
-            "character": 13
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "\" ",
-      "createdAt": 1572223495615,
-      "copyCount": 2,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 6,
-            "character": 49
-          },
-          "end": {
-            "line": 6,
-            "character": 49
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "echo ",
-      "createdAt": 1572221072304,
-      "copyCount": 4,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 2
-          },
-          "end": {
-            "line": 5,
-            "character": 2
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "s",
-      "createdAt": 1572223297520,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 66
-          },
-          "end": {
-            "line": 5,
-            "character": 66
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "#",
-      "createdAt": 1572223220133,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 6,
-            "character": 0
-          },
-          "end": {
-            "line": 6,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "  echo $arg",
-      "createdAt": 1572223219126,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 6,
-            "character": 0
-          },
-          "end": {
-            "line": 6,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": ",",
-      "createdAt": 1570043992835,
-      "copyCount": 2,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 26,
-            "character": 18
-          },
-          "end": {
-            "line": 26,
-            "character": 18
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
-      }
-    },
-    {
-      "value": "$",
-      "createdAt": 1572218955363,
-      "copyCount": 4,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 6
-          },
-          "end": {
-            "line": 4,
-            "character": 6
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "@",
-      "createdAt": 1572221542769,
-      "copyCount": 2,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 3,
-            "character": 10
-          },
-          "end": {
-            "line": 3,
-            "character": 10
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "touch ",
-      "createdAt": 1572221105995,
-      "copyCount": 4,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 2
-          },
-          "end": {
-            "line": 5,
-            "character": 2
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "touch foo bar ",
-      "createdAt": 1572222997982,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 3,
-            "character": 0
-          },
-          "end": {
-            "line": 3,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "ls ",
-      "createdAt": 1572222941225,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 49
-          },
-          "end": {
-            "line": 4,
-            "character": 49
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "srm () { for arg in \"$@\"; do trash \"$arg\"; done }",
-      "createdAt": 1572222020874,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 47
-          },
-          "end": {
-            "line": 4,
-            "character": 47
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "srm () {\n    for arg in \"$@\"\n    do \n        trash \"$arg\"\n    done\n}",
-      "createdAt": 1572221922844,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 0
-          },
-          "end": {
-            "line": 4,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "for arg in \"$@\"\ndo \n    trash \"$arg\"\ndone",
-      "createdAt": 1572221791611,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 7,
-            "character": 0
-          },
-          "end": {
-            "line": 7,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": ".",
-      "createdAt": 1569993595750,
-      "copyCount": 3,
-      "useCount": 2,
-      "language": "html",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 31,
-            "character": 19
-          },
-          "end": {
-            "line": 31,
-            "character": 19
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
-      }
-    },
-    {
-      "value": "} ",
-      "createdAt": 1572221640265,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 8,
-            "character": 0
-          },
-          "end": {
-            "line": 8,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "del() {",
-      "createdAt": 1572221639261,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 7,
-            "character": 4
-          },
-          "end": {
-            "line": 7,
-            "character": 4
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "del",
-      "createdAt": 1572221628697,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 11,
-            "character": 0
-          },
-          "end": {
-            "line": 11,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "    echo \"$#\"",
-      "createdAt": 1572221621666,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 0
-          },
-          "end": {
-            "line": 5,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "for arg in \"$@\"\ndo \n  touch \"$arg.txt\"\ndone",
-      "createdAt": 1572221618156,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 3,
-            "character": 0
-          },
-          "end": {
-            "line": 3,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": ")",
-      "createdAt": 1569955762719,
-      "copyCount": 6,
-      "useCount": 4,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 3,
-            "character": 58
-          },
-          "end": {
-            "line": 3,
-            "character": 58
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/docker/node-tuto/postman.js"
-      }
-    },
-    {
-      "value": "d",
-      "createdAt": 1572221447783,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 0
-          },
-          "end": {
-            "line": 2,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/dl.sh"
-      }
-    },
-    {
-      "value": "m",
-      "createdAt": 1570033678345,
-      "copyCount": 2,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 13,
-            "character": 20
-          },
-          "end": {
-            "line": 13,
-            "character": 20
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
-      }
-    },
-    {
-      "value": "(",
-      "createdAt": 1572221142671,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 8
-          },
-          "end": {
-            "line": 5,
-            "character": 8
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "  touc\"this is an arg: $arg\"",
-      "createdAt": 1572221073816,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 5,
-            "character": 0
-          },
-          "end": {
-            "line": 5,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "echo $1 $2 $3",
-      "createdAt": 1572220997469,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 0
-          },
-          "end": {
-            "line": 2,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "count=0\n\nwhile [ \"$count\" -lt 10 ]\ndo\n    echo $count\n    count=$(( $count + 1 ))\ndone",
-      "createdAt": 1572220926559,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 1,
-            "character": 0
-          },
-          "end": {
-            "line": 1,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "end",
-      "createdAt": 1572219523492,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 7,
-            "character": 0
-          },
-          "end": {
-            "line": 7,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "count=\"$(ls | wc -l)\" \n\nif [ $count -eq 2 ]\nthen\n    echo \"truebie\"\nelse \n  echo \"elsie\"\nfi",
-      "createdAt": 1572219471629,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 1,
-            "character": 0
-          },
-          "end": {
-            "line": 1,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "eq ",
-      "createdAt": 1572218646692,
-      "copyCount": 2,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 13
-          },
-          "end": {
-            "line": 4,
-            "character": 13
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": " ((   9 ))  ",
-      "createdAt": 1572219093027,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 2
-          },
-          "end": {
-            "line": 4,
-            "character": 2
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": ">",
-      "createdAt": 1569992806164,
-      "copyCount": 2,
-      "useCount": 1,
-      "language": "html",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 13,
-            "character": 26
-          },
-          "end": {
-            "line": 13,
-            "character": 26
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
-      }
-    },
-    {
-      "value": "echo \"${count}\"",
-      "createdAt": 1572219081975,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 3,
-            "character": 0
-          },
-          "end": {
-            "line": 3,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "x",
-      "createdAt": 1572218964918,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 6
-          },
-          "end": {
-            "line": 2,
-            "character": 6
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "1",
-      "createdAt": 1572218964413,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 6
-          },
-          "end": {
-            "line": 2,
-            "character": 6
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "0",
-      "createdAt": 1572218962903,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 7
-          },
-          "end": {
-            "line": 2,
-            "character": 7
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "count ",
-      "createdAt": 1572218954862,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 7
-          },
-          "end": {
-            "line": 4,
-            "character": 7
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "-",
-      "createdAt": 1569993694686,
-      "copyCount": 2,
-      "useCount": 1,
-      "language": "html",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 13,
-            "character": 17
-          },
-          "end": {
-            "line": 13,
-            "character": 17
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/public/index.html"
-      }
-    },
-    {
-      "value": "$count -eq 9",
-      "createdAt": 1572218640111,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 8
-          },
-          "end": {
-            "line": 4,
-            "character": 8
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "[",
-      "createdAt": 1572218635096,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 3
-          },
-          "end": {
-            "line": 4,
-            "character": 3
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "10",
-      "createdAt": 1572218577268,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 4,
-            "character": 16
-          },
-          "end": {
-            "line": 4,
-            "character": 16
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "count=10\nif [ $count -eq 10 ]; then echo \"truebie\"; fi",
-      "createdAt": 1572218506866,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 0
-          },
-          "end": {
-            "line": 2,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "w",
-      "createdAt": 1572218477210,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 6,
-            "character": 17
-          },
-          "end": {
-            "line": 6,
-            "character": 17
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "o",
-      "createdAt": 1572218452540,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 7
-          },
-          "end": {
-            "line": 2,
-            "character": 7
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "cat << spank\nfjdksal;\nfjdkslajfdklsajfdklsajfl\nspank",
-      "createdAt": 1572217297174,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 2,
-            "character": 0
-          },
-          "end": {
-            "line": 2,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": ": '\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"\necho \"fdsa\"'\n\necho \"fdsal;kljfkld;sjafkldsaj\"",
-      "createdAt": 1572217269569,
-      "copyCount": 1,
-      "useCount": 0,
-      "language": "shellscript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 1,
-            "character": 0
-          },
-          "end": {
-            "line": 1,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/bash/helloScript.sh"
-      }
-    },
-    {
-      "value": "'",
-      "createdAt": 1570223355870,
-      "copyCount": 3,
-      "useCount": 2,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 14,
-            "character": 25
-          },
-          "end": {
-            "line": 14,
-            "character": 25
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/projects/tiny/app.js"
-      }
-    },
-    {
-      "value": "\t\tprint(\"command\");\n\t\tprintln(_command);",
-      "createdAt": 1570236226269,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "cpp",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 194,
-            "character": 0
-          },
-          "end": {
-            "line": 194,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/other_lq/firmware/CMDString/cmdString.cpp"
-      }
-    },
-    {
-      "value": "\tprint(\"*cmd\");\n\tprintln(*cmd);",
-      "createdAt": 1570236213488,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "cpp",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 172,
-            "character": 0
-          },
-          "end": {
-            "line": 172,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/other_lq/firmware/CMDString/cmdString.cpp"
-      }
-    },
-    {
-      "value": "localhost",
-      "createdAt": 1570223365420,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 14,
-            "character": 26
-          },
-          "end": {
-            "line": 14,
-            "character": 26
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/projects/tiny/app.js"
-      }
-    },
-    {
-      "value": "mongo",
-      "createdAt": 1570223357884,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 14,
-            "character": 26
-          },
-          "end": {
-            "line": 14,
-            "character": 26
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/projects/tiny/app.js"
-      }
-    },
-    {
-      "value": "    const { todos } =  this.state;",
-      "createdAt": 1570033837720,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 30,
-            "character": 0
-          },
-          "end": {
-            "line": 30,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
-      }
-    },
-    {
-      "value": "  ",
-      "createdAt": 1570033827669,
-      "copyCount": 1,
-      "useCount": 1,
-      "language": "javascript",
-      "createdLocation": {
-        "range": {
-          "start": {
-            "line": 29,
-            "character": 0
-          },
-          "end": {
-            "line": 29,
-            "character": 0
-          }
-        },
-        "uri": "file:///Users/hayden/MEGA/sandbox/node/tech-interview/client/src/App.js"
       }
     }
   ]
